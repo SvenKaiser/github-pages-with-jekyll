@@ -1,4 +1,4 @@
-# Where does thi go?
+# Where does this go?
 
 Worker bees can leave
 
